@@ -3,7 +3,7 @@
 superuser:86159 123456
 
 项目基于Django2.2、Adminlet-2.4.10、Python3.7、Pycharm2018、windows10
-画图百度Echarts
+画图Echarts
 
 效果展示：
 ![img.png](img.png)
