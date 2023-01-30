@@ -1,5 +1,5 @@
 # CMDB
-资产管理系统
+资产管理系统</br>
 superuser:86159 123456
 
 项目基于Django2.2、Adminlet-2.4.10、Python3.7、Pycharm2018、windows10
